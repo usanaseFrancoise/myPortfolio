@@ -1,10 +1,12 @@
 h1
 {
     color:blueviolet;
+    text-align: center;
+    border-block-color: grey;
 }
 nav>ul {
     margin:70px;
     padding:70px;
-    
+
 
 }
